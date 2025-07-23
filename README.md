@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=435&lines=Hi+I'm+Arpit+Prajapati!;C%2B%2B+%7C+DSA+%7C+Gen+AI+%7C+Full+Stack+Dev;Student+today%2C+CTO+tomorrow!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=Hello%20World%2C%20I%27m%20Arpit&lines=%F0%9F%A7%A0%20C%2B%2B%20%7C%20DSA%20%7C%20Gen%20AI%20%7C%20Full%20Stack&lines=%F0%9F%9A%80%20Building%20for%20the%20future&lines=%F0%9F%8E%AF%20Learning.%20Building.%20Growing.&lines=%F0%9F%94%A5%20Student%20today%2C%20CTO%20tomorrow)
 
 
 
