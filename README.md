@@ -17,7 +17,8 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arpitcodelab)](https://github.com/arpitcodelab/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arpitcodelab&theme=radical&margin-w=10&no-bg=true&title=Followers,Stars,Commits,PullRequest,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
