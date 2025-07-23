@@ -10,7 +10,8 @@
 
 ### 📈 GitHub Stats & Streaks
 
-![Arpit's GitHub Streak](https://streak-stats.demolab.com?user=arpitcodelab&theme=tokyonight)
+[![Arpit's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=arpitcodelab&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ---
 
