@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=435&lines=Hi+I'm+Arpit+Prajapati!;C%2B%2B+%7C+DSA+%7C+Gen+AI+%7C+Full+Stack+Dev;Student+today%2C+CTO+tomorrow!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
-### Hi there 👋 I'm Arpit Prajapati
-
-#### 🚀 Future CTO in the making | 🎓 B.Tech AIML Student | 🛠 Full Stack + C++ DSA + Generative AI
-
 ---
 
 💡 I believe in **learning by building**. Whether it's solving complex problems with C++, building full-stack web apps, or experimenting with GenAI tools — I keep shipping code.
