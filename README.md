@@ -15,7 +15,7 @@
 
 ### 📈 GitHub Stats & Streaks
 
-[![Arpit's GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com?user=arpitcodelab&theme=transparent)](https://git.io/streak-stats)
+[![Arpit's GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com/?user=arpitcodelab)](https://git.io/streak-stats)
 
 
 ---
