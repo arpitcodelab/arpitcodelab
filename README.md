@@ -1,20 +1,13 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&lines=Hello%20World%2C%20I%27m%20Arpit&lines=%F0%9F%A7%A0%20C%2B%2B%20%7C%20DSA%20%7C%20Gen%20AI%20%7C%20Full%20Stack&lines=%F0%9F%9A%80%20Building%20for%20the%20future&lines=%F0%9F%8E%AF%20Learning.%20Building.%20Growing.&lines=%F0%9F%94%A5%20Student%20today%2C%20CTO%20tomorrow)
+### Hi there 👋 I'm Arpit Prajapati
 
+🧠 C++ | DSA | Gen AI | Full Stack
 
+🚀 Building for the future
 
+🎯 Learning. Building. Growing.
 
+🔥 Student today, CTO tomorrow
 
-
-
-
-
-
-
-
-
-
-
----
 
 💡 I believe in **learning by building**. Whether it's solving complex problems with C++, building full-stack web apps, or experimenting with GenAI tools — I keep shipping code.
 
