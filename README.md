@@ -106,25 +106,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arpitcodelab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitcodelab&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" />
-
-</div>
-
----
 
 ## 💡 Quote I Live By
 
